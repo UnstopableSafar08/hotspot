@@ -8,16 +8,16 @@ Just plug and play on your MikroTik router.
 * Open the filesystem and upload this theme
 * Check your hotspot page
 
-## Screenshots
+<!-- ## Screenshots
 
 ### Login
-### ![alt login](https://github.com/teguhrianto/Responsive-Mikrotik-Template/raw/master/screenshot/login.png)
+![alt login](https://github.com/teguhrianto/Responsive-Mikrotik-Template/raw/master/screenshot/login.png) 
 
 ### Status
-### ![alt status](https://github.com/teguhrianto/Responsive-Mikrotik-Template/raw/master/screenshot/status.png)
+![alt status](https://github.com/teguhrianto/Responsive-Mikrotik-Template/raw/master/screenshot/status.png) 
 
 ### Logout
-### ![alt logout](https://github.com/teguhrianto/Responsive-Mikrotik-Template/raw/master/screenshot/logout.png)
+![alt logout](https://github.com/teguhrianto/Responsive-Mikrotik-Template/raw/master/screenshot/logout.png) -->
 
 ## Ideas and Suggestions
 Please kindly mail me at [teguh@circle-creative.com](mailto:teguh@circle-creative.com])
